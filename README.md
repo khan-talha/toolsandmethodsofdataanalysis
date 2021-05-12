@@ -1,4 +1,5 @@
-# R-basicprogramming-analysis
+# Statistics for Engineers taught by M. Mohammadian
 
-## Masters coursework. Prob, Dist, Operations in R
+## This repository contains all coursework.
+
 
